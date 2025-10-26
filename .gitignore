@@ -1,0 +1,49 @@
+# Visual Studio / VSCode generated files
+.vs/
+.vscode/
+
+# Build outputs
+bin/
+obj/
+Debug/
+Debug*/ 
+Release/
+Release*/
+
+# User and IDE settings
+*.suo
+*.user
+*.userosscache
+*.vcxproj.user
+*.csproj.user
+*.sln.docstates
+
+# Visual C++ database / intermediate files
+*.sdf
+*.opensdf
+*.VC.db
+ipch/
+*.idb
+*.pdb
+*.ipdb
+
+# Compiler/linker intermediate files
+*.obj
+*.pch
+*.ilk
+*.exp
+*.tlog
+*.lastbuildstate
+
+# Test results, logs and temp files
+TestResults/
+*.log
+*.cache
+*.tmp
+
+# Database and tooling
+*.dbmdl
+*.dbproj.schemaview
+
+# Rider/IDE caches (optional)
+.idea/
